@@ -1,13 +1,63 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "jh-docs"
+  title: "Justice Hub"
+  search:
+    type: textbox
+  
   navbar:
+    background: light
+    logo: jh-docs.png
+    logo-alt: "JusticeHub logo."
+    title: false
+    collapse-below: lg
+    search: true
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: "Overview"
+      - text: "How-To"
+        menu: 
+          - text: "Explore Datasets"
+            icon: "binoculars"
+            href: page/explore/index.qmd
+          - text: "Contribute Datasets"
+            icon: "share"
+            href: page/explore/index.qmd
+      - href: page/datasets.qmd
+        text: "Datasets"
+      - href: page/learn.qmd
+        text: "Learn"
+      - href: page/collaborate.qmd
+        text: "Collaborate"
+      - href: page/faq/index.qmd
+        text: "FAQ"
+      - href: page/resources.qmd
+        text: "Resources"
+
+  page-footer:
+    left: |
+      Maintained by
+      [![](https://github.com/CivicDataLab/civicdatalab.github.io/raw/master/static/cdl_logo.png){fig-alt="RStudio" width=45px}](https://civicdatalab.in/)
+    center:
+      - text: "About"
+        href: about.qmd
+      - text: "License"
+        href: license.qmd
+    right:
+      - icon: twitter
+        href: https://twitter.com/JusticeHubIndia
+        aria-label: JusticeHub Twitter
+      - icon: github
+        href: https://github.com/justicehub-in/ckanext-justicehub_theme
+        aria-label: JusticeHub GitHub
+      - icon: newspaper
+        href: https://dataforjustice.substack.com/
+        aria-label: Data for Justice Newsletter
+      - icon: rss
+        href: https://justicehub.in
+        aria-label: JusticeHub Docs RSS
 
 format:
   html:
@@ -16,4 +66,3 @@ format:
     toc: true
 
 editor: visual
-
