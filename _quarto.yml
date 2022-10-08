@@ -15,27 +15,39 @@ website:
     collapse-below: lg
     search: true
     left:
-      - href: index.qmd
-        text: "Overview"
-      - text: "How-To"
-        menu: 
-          - text: "Explore Datasets"
-            icon: "binoculars"
-            href: page/explore/index.qmd
-          - text: "Contribute Datasets"
-            icon: "share"
-            href: page/explore/index.qmd
-      - href: page/datasets.qmd
-        text: "Datasets"
-      - href: page/learn.qmd
-        text: "Learn"
-      - href: page/collaborate.qmd
-        text: "Collaborate"
-      - href: page/faq/index.qmd
-        text: "FAQ"
-      - href: page/resources.qmd
-        text: "Resources"
-
+      - text: "Overview"
+        href: index.qmd
+      - text: "Guide"
+        href: page/guide/index.qmd
+      - text: "Datasets"
+        href: page/datasets/index.qmd
+      - text: "Learn"
+        href: page/learn/index.qmd
+      - text: "Collaborate"
+        href: page/collaborate/index.qmd
+      - text: "FAQ"
+        href: page/faq/index.qmd
+      - text: "Resources"
+        href: page/resources/index.qmd
+        
+  sidebar: 
+    - title: "Guide"
+      style: "docked"
+      background: light
+      collapse-level: 1
+      contents:
+        - page/guide/index.qmd
+        - section: "Explore Datasets"
+          contents:
+            - page/guide/explore/searchDatasets.qmd
+            - page/guide/explore/datasetCategories.qmd
+        - section: "Contribute Datasets"
+          contents:
+            - page/guide/contributeDatasets.qmd
+    - title: "FAQ"
+      contents:
+        - page/faq/index.qmd
+        
   page-footer:
     left: |
       Maintained by
