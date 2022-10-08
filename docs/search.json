@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Documentation Overview",
+    "title": "Overview",
     "section": "",
     "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
@@ -19,5 +19,61 @@
     "title": "FAQ",
     "section": "",
     "text": "This is the FAQ page."
+  },
+  {
+    "objectID": "page/guide/contribute/index.html",
+    "href": "page/guide/contribute/index.html",
+    "title": "Contribute Datasets",
+    "section": "",
+    "text": "Learn to Contribute datasets on the JusticeHub!"
+  },
+  {
+    "objectID": "page/guide/index.html",
+    "href": "page/guide/index.html",
+    "title": "Guide",
+    "section": "",
+    "text": "Learn to Contribute & Explore datasets on the JusticeHub!"
+  },
+  {
+    "objectID": "page/guide/contributeDatasets.html",
+    "href": "page/guide/contributeDatasets.html",
+    "title": "Contribute Datasets",
+    "section": "",
+    "text": "Learn to Contribute datasets on the JusticeHub!"
+  },
+  {
+    "objectID": "page/collaborate/index.html",
+    "href": "page/collaborate/index.html",
+    "title": "Collaborate",
+    "section": "",
+    "text": "Learn to collaborate"
+  },
+  {
+    "objectID": "page/datasets/index.html",
+    "href": "page/datasets/index.html",
+    "title": "Datasets",
+    "section": "",
+    "text": "Data in-depth"
+  },
+  {
+    "objectID": "page/learn/index.html",
+    "href": "page/learn/index.html",
+    "title": "Learn",
+    "section": "",
+    "text": "Training and Workshops"
+  },
+  {
+    "objectID": "page/resources/index.html",
+    "href": "page/resources/index.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Resources Page"
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "Open Source License",
+    "section": "",
+    "text": "License."
   }
 ]
