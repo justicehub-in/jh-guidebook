@@ -44,9 +44,23 @@ website:
         - section: "Contribute Datasets"
           contents:
             - page/guide/contributeDatasets.qmd
-    - title: "FAQ"
+   
+    - title: "Datasets"
+      style: "docked"
+      background: light
+      collapse-level: 2
       contents:
-        - page/faq/index.qmd
+        - page/datasets/index.qmd
+        - "---"
+        - section: "Budgets for Justice"
+          contents:
+            - page/datasets/budgets/index.qmd
+            - section: "Case Studies"
+              contents:
+                - page/datasets/budgets/case-studies/prison.qmd
+                - page/datasets/budgets/case-studies/police.qmd
+                - page/datasets/budgets/case-studies/justice.qmd
+        - "---"
         
   page-footer:
     left: |
@@ -62,7 +76,7 @@ website:
         href: https://twitter.com/JusticeHubIndia
         aria-label: JusticeHub Twitter
       - icon: github
-        href: https://github.com/justicehub-in/ckanext-justicehub_theme
+        href: https://github.com/justicehub-in/justicehub
         aria-label: JusticeHub GitHub
       - icon: newspaper
         href: https://dataforjustice.substack.com/
