@@ -1,3 +1,108 @@
 ---
-title: "Legal Aid"
+title: "Open Air Prisons"
+format: 
+  html:
+    toc: true
 ---
+
+## Overview
+
+> Legally, Open Air Prisons are called Open Air Camps, Open Air Colonies, or Open Correctional Institutions as per the state's terminology. In an open air prison, prisoners (all convicts) are given a small house to live in and they can have their families living with them, have visitors like one would in their own house with permission from the prison department. Some other open prisons have agriculture farms, gaushalas, etc as a fixed choice of vocation. Some prisons provide only lodging facilities to prisoners, some provide both lodging and employment. The open prisons are self-governed with their own elected Panchayat and Committees for maintenance works and discipline.
+
+[Source: Prison Aid + Action Research](https://www.paar.org.in/faqs)
+
+
+As per the [latest report](https://ncrb.gov.in/en/prison-statistics-india-2021) released by [NCRB](https://ncrb.gov.in/en), there are a total of **88** Open Jails in India. 44% (39) of these are in Rajasthan and 21% (19) in Maharashtra. There is only [one open jail](https://ncrb.gov.in/sites/default/files/PSI-2021/TABLE%201.1%20-%202021.pdf) in the state of Assam with [20 Male convicts](https://ncrb.gov.in/sites/default/files/PSI-2021/TABLE%202.8%20-%202021.pdf).
+
+## Share of budget for Open Air Jails in Assam
+
+The share of budget for Open Air jails has remained stagnant over the last 5 years. As we see in the table below, the budget allocated for open air jails is just **1% of the total budget** allocated for [Grant No. 15 - Jails](https://assam2022.openbudgetsindia.org/en/expenditure/all-grants1/grant-no-15-jails/). 
+
+```{=html}
+<iframe title="Share of budget for Open Ais Jails in Assam" aria-label="Table" id="datawrapper-chart-hwMQP" src="https://datawrapper.dwcdn.net/hwMQP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="307"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+```
+
+## Budget for Open Air Jails in Assam
+
+```{=html}
+<iframe title="Budget for Open Air Jails in Assam" aria-label="Grouped Column Chart" id="datawrapper-chart-WB4uE" src="https://datawrapper.dwcdn.net/WB4uE/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="470"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+```
+
+## Budget Composition
+
+The entire budget of Open Air Jails in Assam is divided across several heads. As seen in the chart below, the highest percentage was allocated to **salaries** in the budget for 2022.
+
+```{=html}
+<iframe title="Budget Composition - Open Air Jails" aria-label="Bar Chart" id="datawrapper-chart-0DpH4" src="https://datawrapper.dwcdn.net/0DpH4/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="302"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+```
+
+::: column-margin
+To know more about the grant wise distribution of budget for 2022, check the [Assam Budget Explorer](https://assam2022.openbudgetsindia.org/en/expenditure/all-grants1/). 
+:::
+
+### Wage Budget
+
+The wage budget includes the wages for prisoners. As seen from the chart below, the average expenditure on wages is **5 Lakhs INR per year** between 2018 and 2020. 
+
+```{=html}
+<iframe title="" aria-label="Grouped Column Chart" id="datawrapper-chart-9qIG1" src="https://datawrapper.dwcdn.net/9qIG1/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+```
+
+::: column-margin
+To view distribution of the other components within the Open Air Jails budget, check the [Budgets for Justice](https://budgets.justicehub.in/state/assam/Grant%20No%2015%20-%20Jails/Jails%20-%3E%20Other%20Expenditure%20-%3E%20Open%20Air%20Jails) platform.
+:::
+
+## Know More
+
+1. [Understanding Open Prisons in India](https://www.epw.in/engage/article/understanding-open-prisons-india){target="_blank"}
+2. [Prison Aid + Action Research](https://www.paar.org.in/who-we-are){target="_blank"}
+3. [India’s ‘Open Prisons’ Are a Marvel of Trust-Based Incarceration](https://reasonstobecheerful.world/india-open-prisons-escape-trust/){target="_blank"}
+4. [Open Prison System is a game changer. | Smita Chakraburtty | TEDxMansaroverPark](https://www.youtube.com/watch?v=s02dA0pdDgg){target="_blank"}
+5. [Welcome Change: Making open prisons the norm in India](https://www.youtube.com/watch?v=T57lmnzFi7I){target="_blank"}
+6. [The Concept and Practice of Open Prison System in India](https://ivmpodcasts.com/ivm-episode/the-concept-and-practice-of-open-prison-system-in-india-62eaeff7a84ef64ccccb8afa){target="_blank"}
+
+## Datasets and Tools
+
+:::{layout-ncol=2}
+
+::: callout-note
+
+### Assam Budget Explorer
+
+Explore and analyse the 2022-23 budget for Assam
+[![](images/assam-budget-explorer.png){fig-alt="Link to Assam Budget Explorer"}](https://assam2022.openbudgetsindia.org/en/){target="_blank"}
+:::
+
+::: callout-note
+### Budgets for Justice
+
+Explore patterns in budget allocation for law and justice related schemes in Assam. 
+
+</n>
+
+[![](images/b4j.png){fig-alt="Link to Budgets for Justice platform"}](https://budgets.justicehub.in/state/assam){target="_blank"}
+:::
+
+::: callout-note
+
+### Justice Hub
+
+Download law and justice related datasets.
+
+[![](images/jh.png){fig-alt="Link to Justice Hub"}](https://justicehub.in){target="_blank"}
+:::
+
+::: callout-note
+
+### Open Budgets India
+
+
+Download state budget datasets.
+
+[![](images/obi.png){fig-alt="Link to Open Budgets India"}](https://openbudgetsindia.org/){target="_blank"}
+:::
+
+:::
