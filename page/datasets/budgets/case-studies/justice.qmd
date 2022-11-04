@@ -1,3 +1,78 @@
 ---
 title: "Legal Aid"
+format: 
+  html:
+    toc: true
 ---
+
+## Overview
+
+> It is a well-known fact that around 70% of undertrials in India belong to economically marginalised sections and that it is undertrials that comprise a large proportion of India’s prison population (nearly 70% according to the NCRB Prison Statistics India 2018). Access to justice in India’s criminal justice system involves hurdles at multiple levels in terms of ineffective legal provisions, counterproductive regulatory frameworks and rampant malpractice and corruption. In such a system, effective legal aid lies at heart of the Constitution’s equal justice and rule of law commitments.
+
+A broad overview of the legal aid hierarchy will exhibit that NALSA is at the top, then SLSAs, DLSAs, and finally Taluka Legal Services Committees (TLSCs). Additionally, there are SCLSC and High Court Legal Services Committee (HCLSC). 
+
+[Source: Project39A](https://www.project39a.com/legal-aid){target="_blank"}
+
+The budget for _Legal Aid_ is allocated as part of [Grant No. 3 (Administration of Justice)](https://assam2022.openbudgetsindia.org/en/expenditure/all-grants1/grant-no-3-administration-of-justice/) in the state budget of Assam. 
+
+::: callout-note
+To know more about the process of Budgeting for Legal Aid, refer to this [discussion with Gale Andrews](https://open.spotify.com/episode/6TKvn8M8LBVuc1ttAMt6K9?si=9f574ae4bd224aee&nd=1) who works at [Project 39A](https://www.project39a.com/legal-aid).
+:::
+
+## Share of budget for Legal Aid in Assam
+
+The share of budget for _Legal Aid_ has increased slightly from 1.5% in 2018 to 2.5% in 2022. In 2019, the allocation was increased to 2.9% of the budget for Administration of Justice but it was reduced to 2.49% in 2022. 
+
+```{=html}
+<iframe title="" aria-label="Table" id="datawrapper-chart-XH3VE" src="https://datawrapper.dwcdn.net/XH3VE/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="307"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+```
+
+## Budget for Open Air Jails in Assam
+
+```{=html}
+
+<iframe title="" aria-label="Grouped Column Chart" id="datawrapper-chart-410zc" src="https://datawrapper.dwcdn.net/410zc/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="470"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+
+```
+
+## Budget Composition
+
+The entire budget of _Legal Aid_ in Assam is divided across two different heads `Legal Aid Services` and `Legal Aid`. For 2022-23 , the total estimated budget for Legal Aid Services is **45.5 lakhs INR**. whereas for Legal Aid it is **18.2 crore INR**. 
+
+The different components within the budget for `Legal Aid` can be seen from the chart below. The highest percentage (~80%) was allocated to **Salaries**.
+
+Within `Legal Aid Services`, the highest budget was allocated to _Information Technology_ which is close to **24.3 lakhs INR**.
+
+```{=html}
+<iframe title="" aria-label="Bar Chart" id="datawrapper-chart-0Q3rv" src="https://datawrapper.dwcdn.net/0Q3rv/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="311"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+```
+
+::: column-margin
+To further explore the budget for Legal Aid, check the [Assam Budget Explorer](https://assam2022.openbudgetsindia.org/en/expenditure/all-grants1/grant-no-3-administration-of-justice/){target="_blank"}. 
+:::
+
+## Utilisation of NALSA fund by Assam SLSA
+
+NALSA, since 2016, releases public statistics on legal aid annually, one of which is a breakdown of expenditures across activities by SLSAs from the NALSA fund. The expenditure by Assam SLSA using the NALSA fund is displayed in the chart below. The expenditure incurred in training and honorarium has **reduced significantly from 11% in 2016-17 to 1% in 2021-22**. There has been a decrease in expenditure regarding awareness programs whereas the expenditure regarding the **payment made to PLVs has increased from 6% in 2016-17 to 25% in 2021-22**.
+
+```{=html}
+<iframe title="Fund utilisation pattern of NALSA fund by Assam SLSA" aria-label="Split Bars" id="datawrapper-chart-jGlhT" src="https://datawrapper.dwcdn.net/jGlhT/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="345"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+```
+
+::: column-margin
+As per the [India Justice Report - 2020](https://justicehub.in/dataset/india-justice-report-2020/resource/86c3b1ee-384b-4e53-8009-ad770d39ad180), Assam **improved on 9 out of the 13 indicators** considered under Legal Aid.  
+:::
+
+## Know More
+
+1. [NALSA - State Profiles- 2021/22](https://nalsa.gov.in/library/state-profiles-2021-22){target="_blank"}
+2. [India Justice Report](https://justicehub.in/dataset?publisher_name=Tata+Trusts){target="_blank"}
+3. [Understanding the budgeting for Legal Aid](https://open.spotify.com/episode/2RReAAOp0SvTBjgJQdkPP4?si=cD6omUslTw-YMYh1f43htQ&nd=1){target="_blank"}
+4. [Panel Discussion - Legal Aid and the Criminal Justice System](https://www.youtube.com/watch?v=07Ww0A5_R1U){target="_blank"}
+5. [Resources collated by Project39A](https://www.project39a.com/legal-aid-reading-list){target="_blank"}
+
+{{< include _tools.md >}}
