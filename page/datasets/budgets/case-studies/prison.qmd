@@ -9,14 +9,16 @@ format:
 
 > Legally, Open Air Prisons are called Open Air Camps, Open Air Colonies, or Open Correctional Institutions as per the state's terminology. In an open air prison, prisoners (all convicts) are given a small house to live in and they can have their families living with them, have visitors like one would in their own house with permission from the prison department. Some other open prisons have agriculture farms, gaushalas, etc as a fixed choice of vocation. Some prisons provide only lodging facilities to prisoners, some provide both lodging and employment. The open prisons are self-governed with their own elected Panchayat and Committees for maintenance works and discipline.
 
-[Source: Prison Aid + Action Research](https://www.paar.org.in/faqs)
+[Source: Prison Aid + Action Research](https://www.paar.org.in/faqs){target="_blank"}
 
 
 As per the [latest report](https://ncrb.gov.in/en/prison-statistics-india-2021) released by [NCRB](https://ncrb.gov.in/en), there are a total of **88** Open Jails in India. 44% (39) of these are in Rajasthan and 21% (19) in Maharashtra. There is only [one open jail](https://ncrb.gov.in/sites/default/files/PSI-2021/TABLE%201.1%20-%202021.pdf) in the state of Assam with [20 Male convicts](https://ncrb.gov.in/sites/default/files/PSI-2021/TABLE%202.8%20-%202021.pdf).
 
+The budget for _Open Air Jails_ is allocated as part of [Grant No. 15](https://assam2022.openbudgetsindia.org/en/expenditure/all-grants1/grant-no-15-jails/) in the state budget of Assam. 
+
 ## Share of budget for Open Air Jails in Assam
 
-The share of budget for Open Air jails has remained stagnant over the last 5 years. As we see in the table below, the budget allocated for open air jails is just **1% of the total budget** allocated for [Grant No. 15 - Jails](https://assam2022.openbudgetsindia.org/en/expenditure/all-grants1/grant-no-15-jails/). 
+The share of budget for Open Air jails has remained stagnant over the last 5 years. As we see in the table below, the budget allocated for open air jails is just **1% of the total budget** allocated for [Grant No. 15 (Jails)](https://assam2022.openbudgetsindia.org/en/expenditure/all-grants1/grant-no-15-jails/). 
 
 ```{=html}
 <iframe title="Share of budget for Open Ais Jails in Assam" aria-label="Table" id="datawrapper-chart-hwMQP" src="https://datawrapper.dwcdn.net/hwMQP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="307"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
@@ -64,45 +66,4 @@ To view distribution of the other components within the Open Air Jails budget, c
 5. [Welcome Change: Making open prisons the norm in India](https://www.youtube.com/watch?v=T57lmnzFi7I){target="_blank"}
 6. [The Concept and Practice of Open Prison System in India](https://ivmpodcasts.com/ivm-episode/the-concept-and-practice-of-open-prison-system-in-india-62eaeff7a84ef64ccccb8afa){target="_blank"}
 
-## Datasets and Tools
-
-:::{layout-ncol=2}
-
-::: callout-note
-
-### Assam Budget Explorer
-
-Explore and analyse the 2022-23 budget for Assam
-[![](images/assam-budget-explorer.png){fig-alt="Link to Assam Budget Explorer"}](https://assam2022.openbudgetsindia.org/en/){target="_blank"}
-:::
-
-::: callout-note
-### Budgets for Justice
-
-Explore patterns in budget allocation for law and justice related schemes in Assam. 
-
-</n>
-
-[![](images/b4j.png){fig-alt="Link to Budgets for Justice platform"}](https://budgets.justicehub.in/state/assam){target="_blank"}
-:::
-
-::: callout-note
-
-### Justice Hub
-
-Download law and justice related datasets.
-
-[![](images/jh.png){fig-alt="Link to Justice Hub"}](https://justicehub.in){target="_blank"}
-:::
-
-::: callout-note
-
-### Open Budgets India
-
-
-Download state budget datasets.
-
-[![](images/obi.png){fig-alt="Link to Open Budgets India"}](https://openbudgetsindia.org/){target="_blank"}
-:::
-
-:::
+{{< include _tools.md >}}
