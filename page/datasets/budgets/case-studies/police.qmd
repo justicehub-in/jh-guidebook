@@ -1,3 +1,35 @@
 ---
-title: "Modernisation of Police"
+title: "Police budgets in Assam"
+format: 
+  html:
+    toc: true
 ---
+
+## Overview
+
+> In 2022-23, Assam has allocated 6% of its total expenditure on police, which is higher than the average expenditure on police by states (4.3%).
+
+Source: [Assam budget analysis - PRS](https://prsindia.org/budgets/states/assam-budget-analysis-2022-23){target="_blank"}
+
+## Police related indicators from the India Justice Report
+
+> The India Justice Report 2020 assesses capacities of state police forces based on indicators such as the structural availability of resources, staff, diversity, budget allocation and usage, to name just a few. By and large, we see that rising vacancies, inadequate diversity and poor accessibility continue to plague the structures that support policing capacity.
+
+Source: [India Justice Report - 2020](https://justicehub.in/dataset/india-justice-report-2020/resource/86c3b1ee-384b-4e53-8009-ad770d39ad180){target="_blank"}
+
+As per the latest report (2020), Assam **improved on 4 out of the 15 indicators** considered under Police. The score under each of these indicators can be seen in the table below. The table also show the best and worst scores for each indicator along with the name of the state with the best score. 
+
+One of the indicators where Assam is substantially behind other states is `Spend on training per personnel (Rs, 2019-20)`.  As per the report, **Assam spent INR 15 whereas Bihar, the state with the highest rank for this indicator, spent INR 32,310**.
+
+
+```{=html}
+<iframe title="Indicator wise scores for Assam Police as per the India Justice Report" aria-label="Table" id="datawrapper-chart-kQnPO" src="https://datawrapper.dwcdn.net/kQnPO/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1744" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+```
+
+::: column-margin
+1. The [web dashboard](https://www.tatatrusts.org/insights/survey-reports/India-justice-report-2020/views/police-comparestates.html){target="_blank"} developed by the IJR team can be used for a more detailed state-wise comparison on all indicators. 
+
+2. Check the [Glossary document](https://www.tatatrusts.org/insights/survey-reports/India-justice-report-2020/download/glossary.pdf){target="_blank"} to know more about the  definition and methodology of computation for all indicators.
+:::
+
