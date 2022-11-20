@@ -21,7 +21,7 @@ The budget for _Open Air Jails_ is allocated as part of [Grant No. 15](https://a
 The share of budget for Open Air jails has remained stagnant over the last 5 years. As we see in the table below, the budget allocated for open air jails is just **1% of the total budget** allocated for [Grant No. 15 (Jails)](https://assam2022.openbudgetsindia.org/en/expenditure/all-grants1/grant-no-15-jails/). 
 
 ```{=html}
-<iframe title="Share of budget for Open Ais Jails in Assam" aria-label="Table" id="datawrapper-chart-hwMQP" src="https://datawrapper.dwcdn.net/hwMQP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="307"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Share of budget for Open Air Jails in Assam" aria-label="Table" id="datawrapper-chart-hwMQP" src="https://datawrapper.dwcdn.net/hwMQP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="307"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 ```
 
