@@ -2,26 +2,26 @@ Indicator,score_2020,score_2019,allIndia_high,allIndia_low,category,top_state
 "Modernisation fund used (%, 2019-20)",13%,NA,129%,0%,Budgets,West Bengal
 "Spend on police per person (Rs, 2017-18)",Rs 1107,Rs 788,Rs 6759,Rs 46,Budgets,Punjab
 "Spend on training per personnel (Rs, 2019-20)",Rs 15,NA,Rs 32310,Rs 0,Budgets,Bihar
-"Constables, vacancy (%, Jan 2020) ",7.59%,5.50%,25.30%,3.61%,Human Resources,Uttarakhand
-"Officers, vacancy (%, Jan 2020)",4.10%,3.40%,24.82%,0%,Human Resources,Uttarakhand
-"Officers in civil police (%, Jan 2020)",81%,98%,343%,10%,Human Resources,Jharkhand
-"Share of women in police (%, Jan 2020)",88%,NA,466%,3%,Diversity,Bihar
-"Share of women in officers (%, Jan 2020)",59%,74%,186%,0%,Diversity,"Tamil Nadu	"
-"SC officers, actual to reserved ratio (%, Jan 2020)",87%,NA,259%,0%,Diversity,Gujarat
-"SC constables, actual to reserved ratio (%, Jan 2020)",94%,108%,243%,15%,Diversity,"Andhra Pradesh	"
-"ST officers, actual to reserved ratio (%, Jan 2020)",102%,NA,214%,17%,Diversity,Bihar
-"ST constables, actual to reserved ratio (%, Jan 2020)",22.62%,20.50%,-15.63%,40.13%,Diversity,Bihar
-"OBC officers, actual to reserved ratio (%, Jan 2017)",25.55%,16.40%,-22.34%,48.81%,Diversity,"Andhra Pradesh	"
-"OBC constables, actual to reserved ratio (%, Jan 2020)",16.45%,19.20%,27.95%,7.49%,Diversity,"Andhra Pradesh	"
+"Share of women in police (%, Jan 2020)",7.59%,5.50%,25.30%,3.61%,Human Resources,Uttarakhand
+"Share of women in officers (%, Jan 2020)",4.10%,3.40%,24.82%,0%,Human Resources,Uttarakhand
+"SC officers, actual to reserved ratio (%, Jan 2020)",81%,98%,343%,10%,Human Resources,Jharkhand
+"SC constables, actual to reserved ratio (%, Jan 2020)",88%,NA,466%,3%,Diversity,Bihar
+"ST officers, actual to reserved ratio (%, Jan 2020)",59%,74%,186%,0%,Diversity,"Tamil Nadu	"
+"ST constables, actual to reserved ratio (%, Jan 2020)",87%,NA,259%,0%,Diversity,Gujarat
+"OBC officers, actual to reserved ratio (%, Jan 2020)",94%,108%,243%,15%,Diversity,"Andhra Pradesh	"
+"OBC constables, actual to reserved ratio (%, Jan 2020)",102%,NA,214%,17%,Diversity,Bihar
+"Constables, vacancy (%, Jan 2020)",22.62%,20.50%,-15.63%,40.13%,Diversity,Bihar
+"Officers, vacancy (%, Jan 2020)",25.55%,16.40%,-22.34%,48.81%,Diversity,"Andhra Pradesh	"
+"Officers in civil police (%, Jan 2020)",16.45%,19.20%,27.95%,7.49%,Diversity,"Andhra Pradesh	"
 Population per police station (rural) (Jan 2020),"1,64,135","1,32,708",444.4,253476,Infrastructure,"Kerala	"
 Population per police station (urban) (Jan 2020),"35,388","33,322",8904.8,374000,Infrastructure,Odisha
 "Area per police station (rural) (sq km, Jan 2020)",434 Sq kms,382 Sq kms,1 Sq kms,1399 Sq kms,Infrastructure,Bihar
 "Area per police station (urban) (sq km, Jan 2020)",9 Sq kms,10 Sq kms,6 Sq kms,96 Sq kms,Infrastructure,Telangana
 "Services provided by state's citizen portals (%, 2020)",84.60%,NA,89.60%,0%,Infrastructure,Punjab
 "Personnel per training institute (number, Jan 2020)","17,392",NA,928,37756,Infrastructure,Tamil Nadu
-"Population per civil police (persons, Jan 2020)",1.30 percentage points,0.87 percentage points,4.40 percentage points,-0.67 percentage points,Workload,Punjab
-"Women in total police (pp, CY '15-'19)",0.27 percentage points,0.34 percentage points,2.27 percentage points,-0.63 percentage points,Trends,Bihar
-"Women officers in total officers (pp, CY '15-'19)",0.55 percentage points,2.22 percentage points,-7.06 percentage points,4.74 percentage points,Trends,Uttarakhand
-"Constable vacancy (pp, CY '15-'19) ",2.51 percentage points,1.21 percentage points,-6.67 percentage points,5.94 percentage points,Trends,"Uttar Pradesh	"
-"Officer vacancy (pp, CY '15-'19)",-1.81 percentage points,-1.08 percentage points,4.43 percentage points,-40.57 percentage points,Trends,Uttarakhand
-"Difference in spend: police vs state (pp, FY '14-'18)","1,243","1,122",118,1759,Trends,Gujarat
+"Women in total police (pp, CY '15-'19)",1.30 percentage points,0.87 percentage points,4.40 percentage points,-0.67 percentage points,Workload,Punjab
+"Women officers in total officers (pp, CY '15-'19)",0.27 percentage points,0.34 percentage points,2.27 percentage points,-0.63 percentage points,Trends,Bihar
+"Constable vacancy (pp, CY '15-'19)",0.55 percentage points,2.22 percentage points,-7.06 percentage points,4.74 percentage points,Trends,Uttarakhand
+"Officer vacancy (pp, CY '15-'19)",2.51 percentage points,1.21 percentage points,-6.67 percentage points,5.94 percentage points,Trends,"Uttar Pradesh	"
+"Difference in spend: police vs state (pp, FY '14-'18)",-1.81 percentage points,-1.08 percentage points,4.43 percentage points,-40.57 percentage points,Trends,Uttarakhand
+"Population per civil police (persons, Jan 2020)","1,243","1,122",118,1759,Trends,Gujarat
