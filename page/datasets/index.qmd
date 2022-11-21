@@ -1,5 +1,9 @@
 ---
 title: "Datasets"
+subtitle: "Learn about the datasets available on the Justice Hub"
 ---
 
-Data in-depth
+| Dataset Link                                                                           | Description                                                                                                                                                                        | Analysis                                                                                                              |
+|----------------------|----------------------------|----------------------|
+| [Budgets for Justice - Assam](https://justicehub.in/dataset/budgets-for-justice-assam) | Budget datasets curated for last 5 years from the state budget documents of Assam for the three grants related to law and justice (Administration of Justice, Police, and Prisons) | [Case Studies](budgets/index.qmd)                                                                                     |
+| [Know your High Court Judges (KHOJ)](https://justicehub.in/initiatives/khoj-india)     | The KHOJ (Know Your High Court Judges) dataset includes data of more than 1700 judges appointed between 1993 (after the creation of the collegium) and 2021.                       | [Exploratory Data Analysis](https://justicehub-in.github.io/know-your-high-court-judges/scripts/data-publishing.html) |
