@@ -1,1 +1,4 @@
-Documentation website for the [Justice Hub](https://justicehub.in/)
+
+## Justice Hub - Guidebook
+A guide to using the [Justice Hub](https://justicehub.in)
+
