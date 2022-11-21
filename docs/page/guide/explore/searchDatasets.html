@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../../">
-<link href="../../../page/guide/explore/datasetCategories.html" rel="next">
-<link href="../../../page/guide/share/dataRepositories.html" rel="prev">
+<link href="../../../page/guide/uploadDatasets.html" rel="next">
+<link href="../../../page/guide/create/dataRepositories.html" rel="prev">
 <script src="../../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -93,15 +93,6 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="../../../page/learn/index.html">Learn</a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../../page/collaborate/index.html">Collaborate</a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../../page/faq/index.html">FAQ</a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../../page/resources/index.html">Resources</a>
-  </li>  
 </ul>
               <div class="quarto-toggle-container">
                   <a href="" class="quarto-reader-toggle nav-link" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
@@ -144,27 +135,27 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../page/guide/share/index.html" class="sidebar-item-text sidebar-link">Components of a dataset</a>
+  <a href="../../../page/guide/create/index.html" class="sidebar-item-text sidebar-link">Components of a dataset</a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../page/guide/share/readme.html" class="sidebar-item-text sidebar-link">README file</a>
+  <a href="../../../page/guide/create/readme.html" class="sidebar-item-text sidebar-link">README file</a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../page/guide/share/dataDictionary.html" class="sidebar-item-text sidebar-link">Data Dictionary</a>
+  <a href="../../../page/guide/create/dataDictionary.html" class="sidebar-item-text sidebar-link">Data Dictionary</a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../page/guide/share/license.html" class="sidebar-item-text sidebar-link">Dataset License</a>
+  <a href="../../../page/guide/create/license.html" class="sidebar-item-text sidebar-link">Dataset License</a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../page/guide/share/dataRepositories.html" class="sidebar-item-text sidebar-link">Dataset Repositories</a>
+  <a href="../../../page/guide/create/dataRepositories.html" class="sidebar-item-text sidebar-link">Dataset Repositories</a>
   </div>
 </li>
       </ul>
@@ -182,11 +173,6 @@ ul.task-list li input[type="checkbox"] {
   <a href="../../../page/guide/explore/searchDatasets.html" class="sidebar-item-text sidebar-link active">Search Datasets</a>
   </div>
 </li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../../page/guide/explore/datasetCategories.html" class="sidebar-item-text sidebar-link">Dataset Categories</a>
-  </div>
-</li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
@@ -199,7 +185,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../page/guide/contributeDatasets.html" class="sidebar-item-text sidebar-link">Contribute Datasets</a>
+  <a href="../../../page/guide/uploadDatasets.html" class="sidebar-item-text sidebar-link">Upload Datasets</a>
   </div>
 </li>
       </ul>
@@ -209,7 +195,14 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#simple-search" id="toc-simple-search" class="nav-link active" data-scroll-target="#simple-search">Simple Search</a></li>
+  <li><a href="#advanced-search" id="toc-advanced-search" class="nav-link" data-scroll-target="#advanced-search">Advanced Search</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -230,8 +223,74 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<div class="callout-note callout callout-style-simple">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><a href="https://docs.ckan.org/en/2.9/user-guide.html#search-in-detail">Link</a> to the official CKAN documentation to search for datasets on CKAN platforms</p>
+</div>
+</div>
+</div>
+<p><a href="https://justicehub.in">Justice Hub</a> (JH) supports two search modes, both are used from the same search field. If the search terms entered into the search field contain no colon (“:”) JH will perform a simple search. If the search expression does contain at least one colon (“:”) JH will perform an advanced search.</p>
+<section id="simple-search" class="level3">
+<h3 class="anchored" data-anchor-id="simple-search">Simple Search</h3>
+<p>The search words typed by the user in the search box defines the main “query” constituting the essence of the search. The <code>+</code> and <code>-</code> characters are treated as mandatory and prohibited modifiers for terms. Text wrapped in balanced quote characters (for example, “Assam Correctional Homes”) is treated as a phrase. By default, all words or phrases specified by the user are treated as optional unless they are preceded by a <code>+</code> or a <code>-</code>.</p>
+<div class="callout-important callout callout-style-simple">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>CKAN will search for the complete word and when doing simple search wildcards are not supported.</p>
+</div>
+</div>
+</div>
+<p><strong>Simple search examples</strong></p>
+<ol type="1">
+<li><code>census</code> will search for all the datasets containing the word “census” in the query fields.</li>
+<li><code>census +2019</code> will search for all the datasets contaning the word “census” and filter only those matching also “2019” as it is treated as mandatory.</li>
+<li><code>census -2019</code> will search for all the datasets containing the word “census” and will exclude “2019” from the results as it is treated as prohibited.</li>
+<li><code>"european census"</code> will search for all the datasets containing the phrase “european census”.</li>
+<li>Searching for <code>testing</code> or <code>tested</code> will show also results containing the word “test”.</li>
+</ol>
+<div class="callout-important callout callout-style-simple">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>If the Name of the dataset contains words separated by <code>-</code> it will consider each word independently in the search.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="advanced-search" class="level3">
+<h3 class="anchored" data-anchor-id="advanced-search">Advanced Search</h3>
+<p>If the query has a colon in it it will be considered a <em>fielded search</em>. This will allow us to use wildcards <code>*</code>, proximity matching <code>~</code> and general features described in Solr docs. The basic syntax is <code>field:term</code>.</p>
+<p><strong>Advanced Search Examples</strong></p>
+<ol type="1">
+<li><code>title:european</code> this will look for all the datasets containing in its title the word “european”.</li>
+<li><code>title:europ*</code> this will look for all the datasets containing in its title a word that starts with “europ” like “europe” and “european”.</li>
+<li><code>title:europe || title:africa</code> will look for datasets containing “europe” or “africa” in its title.</li>
+<li><code>title: "european census" ~ 4</code> A proximity search looks for terms that are within a specific distance from one another. This example will look for datasets which title contains the words “european” and “census” within a distance of 4 words.</li>
+<li><code>author:powell~</code> CKAN supports fuzzy searches based on the Levenshtein Distance, or Edit Distance algorithm. To do a fuzzy search use the “~” symbol at the end of a single-word term. In this example words like “jowell” or “pomell” will also be found.</li>
+</ol>
+<div class="callout-important callout callout-style-simple">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Field names used in advanced search may differ from Datasets Attributes, the mapping rules are defined in the schema file. You can use title to search by the dataset name and text to look in a catch-all field that includes author, license, mantainer, tags, etc.</p>
+</div>
+</div>
+</div>
+<p>We’re working to add more contextual examples to our documentation. Meanwhile. if you face any issues or have any doubts, please write to <a href="mailto:info@justicehub.in">info@justicehub.in</a> and we’ll be happy to assist you in exploring and finding datasets on the <a href="https://justicehub.in">Justice Hub</a>.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -334,13 +393,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../../../page/guide/share/dataRepositories.html" class="pagination-link">
+      <a href="../../../page/guide/create/dataRepositories.html" class="pagination-link">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Dataset Repositories</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../../../page/guide/explore/datasetCategories.html" class="pagination-link">
-        <span class="nav-page-text">Dataset Categories</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../../../page/guide/uploadDatasets.html" class="pagination-link">
+        <span class="nav-page-text">Upload Datasets</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

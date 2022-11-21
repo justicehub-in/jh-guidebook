@@ -30,7 +30,7 @@ website:
     - title: "Guide"
       style: "docked"
       background: light
-      collapse-level: 1
+      collapse-level: 3
       contents:
         - page/guide/index.qmd
         - section: "Share Datasets"
@@ -43,10 +43,9 @@ website:
         - section: "Explore Datasets"
           contents:
             - page/guide/explore/searchDatasets.qmd
-            - page/guide/explore/datasetCategories.qmd
         - section: "Contribute Datasets"
           contents:
-            - page/guide/contributeDatasets.qmd
+            - page/guide/uploadDatasets.qmd
    
     - title: "Datasets"
       style: "docked"
