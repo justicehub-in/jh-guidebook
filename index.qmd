@@ -19,9 +19,9 @@ subtitle: "A guide to using the Justice Hub"
 
 Learn to Explore and Contribute datasets on the Justice Hub
 
-- [Create](guide/create/index.qmd)
-- [Explore](guide/explore/searchDatasets.qmd)
-- [Contribute](guide/contributeDatasets.qmd)
+- [Create](page/guide/create/)
+- [Explore](page/guide/explore/searchDatasets.qmd)
+- [Contribute](page/guide/uploadDatasets.qmd)
 
 :::
 
@@ -31,7 +31,7 @@ Learn to Explore and Contribute datasets on the Justice Hub
 
 Learn about the datasets available on the Justice Hub
 
-- [Budgets for Justice](datasets/budgets/index.qmd)
+- [Budgets for Justice](page/datasets/budgets/)
 - [Know your High Court Judges (KHOJ)](https://justicehub-in.github.io/know-your-high-court-judges/scripts/data-publishing.html){target='_blank'}
 
 </n>
@@ -44,7 +44,7 @@ Learn about the datasets available on the Justice Hub
 
 Learn to explore and analyse data through in-depth tutorials
 
-- [Working with data workshops]()
+- [Working with data workshops](page/learn/)
 
 </n>
 :::
