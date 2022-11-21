@@ -1,0 +1,25 @@
+---
+title: "Dataset License"
+---
+
+Data with a license clearly establishes rules on how everyone can modify, use, and share data. Without a license, these rules are unclear, and can lead to problems with attribution and citation. On the [Justice Hub](https://justicehub.in), you can share the dataset under one of these licences. 
+
+|Title                                                                                       |URL                                               |
+|--------------------------------------------------------------------------------------------|--------------------------------------------------|
+|Creative Commons Attribution 4.0 International (CC BY 4.0)                                  |https://creativecommons.org/licenses/by/4.0/      |
+|Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)                    |https://creativecommons.org/licenses/by-sa/4.0/   |
+|Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)                 |https://creativecommons.org/licenses/by-nc/4.0/   |
+|Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)   |https://creativecommons.org/licenses/by-nc-sa/4.0/|
+|Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)                 |https://creativecommons.org/licenses/by-nd/4.0/   |
+|Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)|https://creativecommons.org/licenses/by-nc-nd/4.0/|
+|CC0 1.0 Universal (CC0 1.0) Public Domain Dedication                                        |https://creativecommons.org/publicdomain/zero/1.0/|
+|Open Data Commons Open Database License (ODbL)                                              |https://opendatacommons.org/licenses/odbl/        |
+|Open Data Commons Attribution License (ODC-By)                                              |https://opendatacommons.org/licenses/by/          |
+|Open Data Commons Public Domain Dedication and License (PDDL)                               |https://opendatacommons.org/licenses/pddl/        |
+
+**References**
+
+- The following [licenses](https://opendefinition.org/licenses/) are conformant with the principles set forth in the [Open Definition](https://opendefinition.org/). 
+- A [guide](https://data.humdata.org/about/license) on Open Data Licensing by the [Humanatarian Data Exchange](https://data.humdata.org/)
+- A short [guide](https://theodi.org/article/publishers-guide-to-open-data-licensing/) curated by the [Open Data Institute](https://theodi.org/) on Open Data Licensing
+- [Difference Between Different Types Of Open Sources Licenses](https://fossbytes.com/open-sources-license-type/)

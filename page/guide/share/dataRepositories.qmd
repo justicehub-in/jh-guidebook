@@ -1,0 +1,16 @@
+---
+title: "Dataset Repositories"
+---
+
+We're curating this list to learn about how legal data is being stored, managed and documented, around the world, by organisations, individuals and data platforms. 
+
+- [Vera Institute - Incarceration Trends Dataset and Documentation ](https://github.com/vera-institute/incarceration_trends)
+- [Datasets from the Human Rights Data Analysis group](https://hrdag.org/data-publication/)
+    - [Colombia – Casanare (en español)](https://hrdag.org/casanare-colombia/)
+    - [Guatemala – CIIDH datasets](https://hrdag.org/guatemala-ciidh-data/)
+    - [Kosovo – Killings, Migrations, and More](https://hrdag.org/kosovo-data/)
+    - [Liberia – Truth and Reconciliation Commission](https://hrdag.org/liberia-data/)
+    - [Sierra Leone – TRC Data and Statistical Appendix](https://hrdag.org/sierra-leone-data/)
+- [The CIRI Human Rights Dataset](http://www.humanrightsdata.com/p/data-documentation.html)
+
+Do [write to us](mailto:info@justicehub.in) if you come across well documented legal datasets that we can all learn from. We'll be happy and proud to include more resources and content from the legal data community in India. 

@@ -1,0 +1,32 @@
+---
+title: "Components of a dataset"
+---
+
+**What is a legal dataset?**
+
+```{r what-is-a-legal-dataset-video, echo=FALSE}
+knitr::include_url("https://www.youtube.com/embed/7wrBtB_coJc?fs=1")
+```
+
+::: {.callout-note appearance="simple"}
+Note: Content under this section is reproduced from a research paper titled - [A Realistic Guide to Making Data Available Alongside Code to Improve Reproducibility](https://karthik.github.io/ddd) by [Nicholas J Tierney](http://www.njtierney.com/) & [Karthik Ram](https://ram.berkeley.edu/).
+:::
+
+To share data analysis data, there should be some minimal set of requirements. For example, the data should contain information on metadata, data dictionaries, the README, and data used in analysis.
+
+There are 8 pieces of content to consider for data sharing:
+
+1.  README: A Human readable description of the data
+2.  Data dictionary: Human readable dictionary of data contents
+3.  License: How to use and share the data
+4.  Citation: How you want your data to be cited
+5.  Machine readable meta data: Make your data searchable
+6.  Raw data: The original/first data provided
+7.  Scripts: To clean raw data ready for analysis
+8.  Analysis ready data: Final data used in analysis
+
+To arrange the files in a folder or a drive, you can follow the layout shown in this image:
+
+![](../../../assets/project-layout.png) 
+
+Next, we'll discuss these sections in detail and also share a few reference links from other data repositories.
