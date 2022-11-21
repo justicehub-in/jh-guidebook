@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Overview",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Justice Hub is a collaborative community of organisations and individuals working towards creating, curating and maintaining resources (commons) to advance and promote data driven legal research.\nOur objective is to curate and host well-documented datasets on the platform. To move ahead on that route, we will use this space to share resources and guidebooks that might help you in contributing good quality datasets. We will also use this space to highlight certain information resources curated from the community of legal data enthusiasts so that we can learn and further evolve in our journeys to open and maintain data repositories over a longer term which can help fill a few large data-gaps in the law and justice sector.\nTo stay updated with the latest datasets, community events, and workshops join us on Substack."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "Our objective is to curate and host well-documented datasets on the platform. To move ahead on that route, we will use this space to share resources and guidebooks that might help you in contributing good quality datasets. We will also use this space to highlight certain information resources curated from the community of legal data enthusiasts so that we can learn and further evolve in our journeys to open and maintain data repositories over a longer term which can help fill a few large data-gaps in the law and justice sector.\nTo stay updated with the latest datasets, community events, and workshops join us on Substack."
   },
   {
     "objectID": "page/faq/index.html",
@@ -81,7 +81,7 @@
     "href": "page/datasets/budgets/index.html",
     "title": "Overview",
     "section": "",
-    "text": "Understanding budgets"
+    "text": "The state budget of the Government of Assam is spread across several grants. One way to assess a state’s capacity to deliver justice is by looking at the allocation of budgets under grants related to Police, Prison, and Judiciary. In Assam, these are represented by Grant No. 3 (Administration of Justice), Grant No. 14(Police), and Grant No. 15(Jails). In the budget for 2022-23, Assam allocated 6% of its total expenditure to police, which is higher than the average expenditure on police by other states (4.3%). The budget allocation for “Administration of Justice” is around 0.6% whereas for “Jails” it is only about 0.15% of the entire budget. These allocations represent the priorities of the state government. But how can citizens and civil society organizations, who work around improving access to justice, ensure that their demands are being represented within this budget?\nTo answer this question, we need to build the capacity to explore and analyze past and current budget datasets & documents. We should be able to inquire about the current state of affairs and the allocation and utilization of funds by the governments to improve access to justice. Often the technical and subject matter expertise required to deal with this information along with time and time and resource-related constraints restricts the capacity of citizens to engage with the state.\nThe objective behind building the platform - Budgets for Justice - Assam is to lessen the time it takes for people to collate, explore, analyze & visualize data related to budgets. We have curated budget datasets for the last 5 years for the three grants related to law and justice (Administration of Justice, Police, and Prisons). The data platform can be used to explore and analyze the trends and patterns of budget allocation and expenditure under these budget heads.\nThe case studies highlight the current state of law and justice-related budgeting in Assam. Check these links to know more."
   },
   {
     "objectID": "page/datasets/budgets/case-studies/prison.html",
@@ -215,5 +215,54 @@
     "title": "Legal Aid",
     "section": "Budget for Legal Aid in Assam",
     "text": "Budget for Legal Aid in Assam"
+  },
+  {
+    "objectID": "page/guide/share/index.html",
+    "href": "page/guide/share/index.html",
+    "title": "Components of a dataset",
+    "section": "",
+    "text": "Note: Content under this section is reproduced from a research paper titled - A Realistic Guide to Making Data Available Alongside Code to Improve Reproducibility by Nicholas J Tierney & Karthik Ram.\n\n\n\nTo share data analysis data, there should be some minimal set of requirements. For example, the data should contain information on metadata, data dictionaries, the README, and data used in analysis.\nThere are 8 pieces of content to consider for data sharing:\n\nREADME: A Human readable description of the data\nData dictionary: Human readable dictionary of data contents\nLicense: How to use and share the data\nCitation: How you want your data to be cited\nMachine readable meta data: Make your data searchable\nRaw data: The original/first data provided\nScripts: To clean raw data ready for analysis\nAnalysis ready data: Final data used in analysis\n\nTo arrange the files in a folder or a drive, you can follow the layout shown in this image:\n\nNext, we’ll discuss these sections in detail and also share a few reference links from other data repositories."
+  },
+  {
+    "objectID": "page/guide/share/dataDictionary.html",
+    "href": "page/guide/share/dataDictionary.html",
+    "title": "Data Dictionary",
+    "section": "",
+    "text": "variable names\nvariable labels\nvariable codes, and\nspecial values for missing data.\n\n\n\n\nData Dictionary\n\n\nAn example data dictionary table from incarceration trends repository. This includes information on the variable, its class (type), and a longer description.\n\n\n\n\n\n\n\n\nVariable\nClass\nDescription\n\n\n\n\nyear\ninteger (date)\nYear\n\n\nurbanicity\ncharacter\nCounty-type (urban, suburban, small/mid, rural)\n\n\npop_category\ncharacter\nCategory for population - either race, gender, or Total\n\n\nrate_per_100000\ndouble\nRate within a category for prison population per 100,000 people\n\n\n\n\n\n\n\n\n\nEvery data dictionary should also be provided in its raw form (e.g., a CSV) in the repository\n\n\n\nReferences\n\nThe code book\nHow to code variables\nData Dictionary: a how to and best practices\nCreate a data dictionary\nHow to Make a Data Dictionary\nDatasheets for Datasets"
+  },
+  {
+    "objectID": "page/guide/share/dataRepositories.html",
+    "href": "page/guide/share/dataRepositories.html",
+    "title": "Dataset Repositories",
+    "section": "",
+    "text": "Vera Institute - Incarceration Trends Dataset and Documentation\nDatasets from the Human Rights Data Analysis group\n\nColombia – Casanare (en español)\nGuatemala – CIIDH datasets\nKosovo – Killings, Migrations, and More\nLiberia – Truth and Reconciliation Commission\nSierra Leone – TRC Data and Statistical Appendix\n\nThe CIRI Human Rights Dataset\n\nDo write to us if you come across well documented legal datasets that we can all learn from. We’ll be happy and proud to include more resources and content from the legal data community in India."
+  },
+  {
+    "objectID": "page/guide/share/license.html",
+    "href": "page/guide/share/license.html",
+    "title": "Dataset License",
+    "section": "",
+    "text": "Title\nURL\n\n\n\n\nCreative Commons Attribution 4.0 International (CC BY 4.0)\nhttps://creativecommons.org/licenses/by/4.0/\n\n\nCreative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)\nhttps://creativecommons.org/licenses/by-sa/4.0/\n\n\nCreative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)\nhttps://creativecommons.org/licenses/by-nc/4.0/\n\n\nCreative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)\nhttps://creativecommons.org/licenses/by-nc-sa/4.0/\n\n\nCreative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)\nhttps://creativecommons.org/licenses/by-nd/4.0/\n\n\nCreative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)\nhttps://creativecommons.org/licenses/by-nc-nd/4.0/\n\n\nCC0 1.0 Universal (CC0 1.0) Public Domain Dedication\nhttps://creativecommons.org/publicdomain/zero/1.0/\n\n\nOpen Data Commons Open Database License (ODbL)\nhttps://opendatacommons.org/licenses/odbl/\n\n\nOpen Data Commons Attribution License (ODC-By)\nhttps://opendatacommons.org/licenses/by/\n\n\nOpen Data Commons Public Domain Dedication and License (PDDL)\nhttps://opendatacommons.org/licenses/pddl/\n\n\n\nReferences\n\nThe following licenses are conformant with the principles set forth in the Open Definition.\nA guide on Open Data Licensing by the Humanatarian Data Exchange\nA short guide curated by the Open Data Institute on Open Data Licensing\nDifference Between Different Types Of Open Sources Licenses"
+  },
+  {
+    "objectID": "page/guide/share/readme.html",
+    "href": "page/guide/share/readme.html",
+    "title": "README file",
+    "section": "",
+    "text": "Who collected it\nWhat is the data\nWhen was it collected\nWhere was it collected\nWhy it was collected\nHow is was collected\n\nWith one README per dataset, It should be brief, and provide links to the other aforementioned sections. It should also contain any other guidance for the user on how to read and interpret the whole dataset.\nReferences\n\nVera Institute of Justice - Incarceration Trends Dataset"
+  },
+  {
+    "objectID": "page/datasets/budgets/index.html#datasets-and-tools",
+    "href": "page/datasets/budgets/index.html#datasets-and-tools",
+    "title": "Overview",
+    "section": "Datasets and Tools",
+    "text": "Datasets and Tools\n\n\n\n\n\n\n\n\nOpen Air Prisons\n\n\n\n\n\n\n\n\n\nThe budget for Open Air Jails is allocated as part of Grant No. 15 in the state budget of Assam.\n\n\n\n\n\n\n\n\nPolice budgeting in Assam\n\n\n\n\n\n\n\n\nAssam allocated 6% of its total expenditure on police, which is higher than the average expenditure on police by states (4.3%).\n\n\n\n\n\n\n\n\nBudgets for Legal Aid\n\n\n\n  The budget for Legal Aid is allocated as part of Grant No. 3 (Administration of Justice) in the state budget of Assam."
+  },
+  {
+    "objectID": "page/datasets/budgets/index.html#case-studies",
+    "href": "page/datasets/budgets/index.html#case-studies",
+    "title": "Overview",
+    "section": "Case Studies",
+    "text": "Case Studies\n\n\n\n\n\n\n\n\nOpen Air Prisons\n\n\n\nHere we analyse the share of the budget for Open Air Jails in the state budget of Assam.\n\nLink\n\n\n\n\n\n\n\n\nPolice budgeting in Assam\n\n\n\nHere we analyse the overall police budget on specific indicators taken from the India Justice Report.\n\nLink\n\n\n\n\n\n\n\n\nBudgets for Legal Aid\n\n\n\nHere we analyse the fund utilisation patter of the NALSA fund by Assam State Legal Services Authority.\n\nLink"
   }
 ]
