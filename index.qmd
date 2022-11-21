@@ -1,7 +1,54 @@
 ---
-title: "Overview"
+title: "Justice Hub - Guidebook"
+subtitle: "A guide to using the Justice Hub"
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+[![](assets/jh-banner.png)](https://justicehub.in){target='_blank'}
+
+:::{.column-margin}
+[Justice Hub](https://justicehub.in) is an open source platform designed to curate data related to the Indian legal and justice system. The datasets are crowdsourced from a community of law and data researchers, practitioners and enthusiasts. 
+
+:::
+
+
+::: {layout-ncol="3"}
+::: callout-note
+
+## Guide
+
+Learn to Explore and Contribute datasets on the Justice Hub
+
+- [Create](guide/create/index.qmd)
+- [Explore](guide/explore/searchDatasets.qmd)
+- [Contribute](guide/contributeDatasets.qmd)
+
+:::
+
+::: callout-note
+
+## Data In-depth
+
+Learn about the datasets available on the Justice Hub
+
+- [Budgets for Justice](datasets/budgets/index.qmd)
+- [Know your High Court Judges (KHOJ)](https://justicehub-in.github.io/know-your-high-court-judges/scripts/data-publishing.html){target='_blank'}
+
+</n>
+
+:::
+
+::: callout-note
+
+## Learn
+
+Learn to explore and analyse data through in-depth tutorials
+
+- [Working with data workshops]()
+
+</n>
+:::
+
+:::
+
+We strive to create a supportive and welcoming environment for all. We encourage you to read the [Code of Conduct](https://docs.google.com/document/d/e/2PACX-1vQgI9qUnJNuD5XGvQf2l9rgj4f3a7Thg3nqCeVuQ2gG7s-5LJFQWfzD3O4r9wVzX7wQM8OFLFNPPu4x/pub) and will be enforcing it.

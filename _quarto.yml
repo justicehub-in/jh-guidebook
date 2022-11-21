@@ -35,11 +35,11 @@ website:
         - page/guide/index.qmd
         - section: "Share Datasets"
           contents: 
-            - page/guide/share/index.qmd
-            - page/guide/share/readme.qmd
-            - page/guide/share/dataDictionary.qmd
-            - page/guide/share/license.qmd
-            - page/guide/share/dataRepositories.qmd
+            - page/guide/create/index.qmd
+            - page/guide/create/readme.qmd
+            - page/guide/create/dataDictionary.qmd
+            - page/guide/create/license.qmd
+            - page/guide/create/dataRepositories.qmd
         - section: "Explore Datasets"
           contents:
             - page/guide/explore/searchDatasets.qmd
