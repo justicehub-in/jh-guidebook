@@ -25,13 +25,7 @@ website:
         href: page/datasets/index.qmd
       - text: "Learn"
         href: page/learn/index.qmd
-      - text: "Collaborate"
-        href: page/collaborate/index.qmd
-      - text: "FAQ"
-        href: page/faq/index.qmd
-      - text: "Resources"
-        href: page/resources/index.qmd
-        
+
   sidebar: 
     - title: "Guide"
       style: "docked"
