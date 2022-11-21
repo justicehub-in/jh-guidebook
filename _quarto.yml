@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Justice Hub"
+  page-navigation: true
   reader-mode: true
   search:
     type: textbox
@@ -38,6 +39,13 @@ website:
       collapse-level: 1
       contents:
         - page/guide/index.qmd
+        - section: "Share Datasets"
+          contents: 
+            - page/guide/share/index.qmd
+            - page/guide/share/readme.qmd
+            - page/guide/share/dataDictionary.qmd
+            - page/guide/share/license.qmd
+            - page/guide/share/dataRepositories.qmd
         - section: "Explore Datasets"
           contents:
             - page/guide/explore/searchDatasets.qmd
@@ -66,7 +74,7 @@ website:
   page-footer:
     left: |
       Maintained by
-      [![](https://github.com/CivicDataLab/civicdatalab.github.io/raw/master/static/cdl_logo.png){fig-alt="RStudio" width=45px}](https://civicdatalab.in/)
+      [![](assets/cdl-logo.png){fig-alt="CivicDataLab" width=45px}](https://civicdatalab.in/)
     center:
       - text: "About"
         href: about.qmd
