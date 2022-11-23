@@ -8,8 +8,44 @@ To answer this question, we need to build the capacity to explore and analyze pa
 
 The objective behind building the platform - [Budgets for Justice - Assam](https://budgets.justicehub.in/state/assam){target='_blank'} is to lessen the time it takes for people to collate, explore, analyze & visualize data related to budgets. We have curated budget datasets for the last 5 years for the three grants related to law and justice (Administration of Justice, Police, and Prisons). The data platform can be used to explore and analyze the trends and patterns of budget allocation and expenditure under these budget heads.
 
-The case studies highlight the current state of law and justice-related budgeting in Assam. Check these links to know more.
+## Processing Budget Documents
+
+![](case-studies/images/budget-tools-overview.png)
+
+## Datasets and Tools
+
+::: {layout-ncol="2"}
+::: callout-note
+### Assam Budget Explorer
+
+Explore and analyse the 2022-23 budget for Assam [![](case-studies/images/assam-budget-explorer.png){fig-alt="Link to Assam Budget Explorer"}](https://assam2022.openbudgetsindia.org/en/){target="_blank"}
+:::
+
+::: callout-note
+### Budgets for Justice
+
+Explore patterns in budget allocation for law and justice related schemes in Assam.
+
+</n>
+
+[![](case-studies/images/b4j.png){fig-alt="Link to Budgets for Justice platform"}](https://budgets.justicehub.in/state/assam)
+:::
+
+::: callout-note
+### Justice Hub
+
+Download law and justice related datasets.
+
+[![](case-studies/images/jh.png){fig-alt="Link to Justice Hub"}](https://justicehub.in)
+:::
+
+::: callout-note
+### Open Budgets India
+
+Download state budget datasets.
+
+[![](case-studies/images/obi.png){fig-alt="Link to Open Budgets India"}](https://openbudgetsindia.org/)
+:::
+:::
 
 {{< include case-studies/_casestudies.md >}}
-
-
