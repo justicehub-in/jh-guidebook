@@ -34,4 +34,4 @@ for more resources.
 :::
 
 All content in this repository is licensed under
-[![CC-BY-SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](LICENSE.md)
+[![CC-BY-SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/){target='_blank'}
