@@ -70,7 +70,7 @@ website:
   page-footer:
     left: |
       Maintained by
-      [![](assets/cdl-logo.png){fig-alt="CivicDataLab" width=45px}](https://civicdatalab.in/)
+      [![](https://cdn.jsdelivr.net/gh/justicehub-in/jh-guidebook@main/assets/cdl-logo.png){fig-alt="CivicDataLab" width=45px}](https://civicdatalab.in/){target='_blank'}
     center:
       - text: "About"
         href: about.qmd
@@ -86,9 +86,6 @@ website:
       - icon: newspaper
         href: https://dataforjustice.substack.com/
         aria-label: Data for Justice Newsletter
-      - icon: rss
-        href: https://justicehub.in
-        aria-label: JusticeHub Docs RSS
 
 format:
   html:
