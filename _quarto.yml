@@ -25,6 +25,9 @@ website:
         href: page/datasets/index.qmd
       - text: "Learn"
         href: page/learn/index.qmd
+      - text: "Blogs"
+        href: https://medium.com/civicdatalab/tagged/law
+        
 
   sidebar: 
     - title: "Guide"
