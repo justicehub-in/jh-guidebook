@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "Open Source License",
-    "section": "",
-    "text": "All content is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "Our objective is to curate and host well-documented datasets on the platform. To move ahead on that route, we will use this space to share resources and guidebooks that might help you in contributing good quality datasets. We will also use this space to highlight certain information resources curated from the community of legal data enthusiasts so that we can learn and further evolve in our journeys to open and maintain data repositories over a longer term which can help fill a few large data-gaps in the law and justice sector.\nTo stay updated with the latest datasets, community events, and workshops join us on Substack."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Justice Hub - Guidebook",
+    "section": "",
+    "text": "Justice Hub is an open source platform designed to curate data related to the Indian legal and justice system. The datasets are crowdsourced from a community of law and data researchers, practitioners and enthusiasts.\n\n\n\n\n\n\n\n\nGuide\n\n\n\nLearn to Explore and Contribute datasets on the Justice Hub\n\nCreate\nExplore\nContribute\n\n\n\n\n\n\n\n\n\nData In-depth\n\n\n\nLearn about the datasets available on the Justice Hub\n\nBudgets for Justice\nKnow your High Court Judges (KHOJ)\n\n\n\n\n\n\n\n\n\n\nLearn\n\n\n\nLearn to explore and analyse data through in-depth tutorials\n\nWorking with data workshops\n\n\n\n\n\n\nWe strive to create a supportive and welcoming environment for all. We encourage you to read the Code of Conduct and will be enforcing it."
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "Open Source License",
+    "section": "",
+    "text": "All content is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License"
   },
   {
     "objectID": "page/collaborate/index.html",
